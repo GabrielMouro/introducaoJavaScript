@@ -1,2 +1,6 @@
 # introducaoJavaScript
 seção 4 da Trybe
+
+Dia 1 - if/else
+Dia 2 - Srray e loop For
+
