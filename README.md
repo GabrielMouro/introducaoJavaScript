@@ -5,3 +5,5 @@ Dia 1 - if/else
 
 Dia 2 - Array e loop For
 
+DIA 3 - Lógica de programação
+
