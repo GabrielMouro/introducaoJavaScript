@@ -9,3 +9,6 @@ function bigger (num1, num2) {
 }
 
 console.log(bigger(9, 9));
+console.log('');
+console.log('-------------------');
+

@@ -9,3 +9,5 @@ Dia 3 - Lógica de programação
 
 Dia 4 - Objetos e Funções
 
+Dia 5 - JavaScript ES6!
+
